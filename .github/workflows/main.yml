@@ -1,0 +1,94 @@
+{
+  "content": "Credit to Alekku & CutaIie",
+  "embeds": [
+    {
+      "description": "**Tributary of Knowledge** ",
+      "color": 4600077,
+      "footer": {
+        "text": "“Knowledge grows only through challenge.”",
+        "icon_url": "https://cdn.discordapp.com/attachments/672283845755666452/686068091096006663/asarluhi.png"
+      },
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/672283845755666452/686043473429790791/image0.jpg"
+      }
+    },
+    {
+      "title": "Codex",
+      "color": 4600077,
+      "fields": [
+        {
+          "name": "Maxim",
+          "value": "“Beware the easy path. Knowledge grows only through challenge.”\n"
+        },
+        {
+          "name": "Asarluhi",
+          "value": "Within the [Samarian](https://www.roblox.com/groups/4257207/Samarian-Rogue-Brotherhood#!/about) Tributary of Knowledge, [Asarluhi](https://www.roblox.com/groups/4721914/Samarian-Asarluhi#!/about) are responsible for the preservation of knowledge for the people. Whether it be documentors of events or lore-keeping of stories of the past. The knowledge that flows in and out of Samarians are entrusted to the Tributary of Asarluhi."
+        },
+        {
+          "name": "Tenets",
+          "value": "1. Justice as an end satisfies all means necessary.\n2. No one is innocent, as long as there is injustice.\n3. Never betray your ideals, as long as they are divine.\n4. Never covet power, possessions, or comfort above justice.\n5. Take responsibility for your actions; you are their shepherd."
+        },
+        {
+          "name": "Invite Link",
+          "value": "[discord.gg/pChfy6f](https://discord.gg/pChfy6f)"
+        }
+      ]
+    },
+    {
+      "title": "Roles",
+      "color": 4600077,
+      "fields": [
+        {
+          "name": "Priest",
+          "value": "Attained through a ceremony and approved by the tributary, a new member arrives. Their role within the Tributary is to carry out their duties of spreading His ideals."
+        },
+        {
+          "name": "Magus",
+          "value": "Magus is an individual who upholds their responsibility and devotion within their duties. Given the fact that they have proved their competence, they are granted the right to conduct events within the Tributary."
+        },
+        {
+          "name": "Shaman",
+          "value": "Handpicked by the Druid, they form the leadership of Asarluhi. Their role is to oversee the tributary's activity and represent the Tributary of Asarluhi."
+        },
+        {
+          "name": "Druid",
+          "value": "Selected by their predecessors, a leader is chosen with the responsibility of leading the Tributary of Knowledge. They determine the initiation of members within Asarluhi."
+        }
+      ]
+    },
+    {
+      "title": "Regulations",
+      "color": 4600077,
+      "fields": [
+        {
+          "name": "Physical Conduct Moral",
+          "value": "Being a member of Asarluhi means one must uphold the ideals that Samarians represent. We cannot let our personal strife and feelings get in the way of our duties. Examples such as killing without justifiable reason or any form of harassment will result in repercussions upon your position in our brotherhood."
+        },
+        {
+          "name": "Verbal Conduct Moral",
+          "value": "The guidelines set by the Sibyl are not to be ignored. Regulations such as  proper usage of grammar, polite manners and responsibility will not be ignored. It is best to be wary of the words you speak since they hold immense value and reflect the level of effort you put in your role."
+        },
+        {
+          "name": "Confidentiality",
+          "value": "Asarluhi is tasked with knowledge, therefore their statements on acquiring knowledge and expanding one’s consciousness should be public knowledge, especially through encouraging thought-provoking exercises within the brotherhood. All other relative information on tasks should remain hidden."
+        }
+      ]
+    },
+    {
+      "title": "Foundation",
+      "fields": [
+        {
+          "name": "Predecessor",
+          "value": ":brown_heart: `Ismag`\n`freesoma15 & nitro & syvilen & Newtology`"
+        },
+        {
+          "name": "Druid",
+          "value": "`Kaldenstein`"
+        }
+      ],
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/attachments/672283845755666452/686068091096006663/asarluhi.png"
+      }
+    }
+  ]
+}
